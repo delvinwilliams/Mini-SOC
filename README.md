@@ -1,7 +1,6 @@
 # Building a SOC + Honeynet in Azure (Live Traffic)
 ![image](https://github.com/delvincybertech/Cloud-SOC/assets/164829222/1b766875-2b86-4b31-b473-26a53890fd20)
 
-
 ## Introduction
 
 In this project, I constructed a miniature honeynet within the Azure environment. I collected log data from diverse sources and consolidated them into a Log Analytics workspace. This workspace serves as the foundation for Microsoft Sentinel, enabling the creation of attack visualizations, alert triggers, and incident management.
